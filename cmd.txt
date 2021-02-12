@@ -1,0 +1,14 @@
+cp : copier des fichiers ou des répertoires.
+mkdir : créer un dossier.
+mv : renommer ou déplacer un fichier ou un dossier.
+ln : créer des liens durs et liens symboliques.
+rm : supprimer un fichier ou un dossier.
+rmdir : supprimer un dossier vide (plus sûre que rm).
+touch : créer un fichier.
+
+
+
+
+sudo: Cette commande permet à un administrateur système d'accorder à certains utilisateurs 
+(ou groupes d'utilisateurs) la possibilité de lancer une commande en tant qu'administrateur, 
+ou en tant qu'autre utilisateur, tout en conservant une trace des commandes saisies et des arguments.
